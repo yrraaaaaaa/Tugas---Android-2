@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Android MySQL</string>
+    <string name="item">item</string>
+    <string name="full_name">full name</string>
+    <string name="phone_number">phone number</string>
+    <string name="create_data">create data</string>
+    <string name="save">save</string>
+</resources>
